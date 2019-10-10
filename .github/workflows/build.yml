@@ -14,4 +14,4 @@ jobs:
       with:
         node-version: 12.x
 
-    - uses: blacha/hyperfine-action@releases/v1
+    - uses: blacha/hyperfine-action@releases/v2
