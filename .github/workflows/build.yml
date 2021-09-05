@@ -18,3 +18,5 @@ jobs:
         node-version: 12.x
 
     - uses: blacha/hyperfine-action@v1
+      with:
+        publish: true
